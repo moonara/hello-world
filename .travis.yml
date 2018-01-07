@@ -1,6 +1,2 @@
-language: php
-php:
-  - '5.6'
-  - '7.1'
-  - hhvm # on Trusty only
-  - nightly
+notifications:
+    slack: moonara:pkjrMqA1XPA4Y1vHE417zJNy
